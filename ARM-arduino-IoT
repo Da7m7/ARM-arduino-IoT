@@ -1,4 +1,3 @@
-# ARM-arduino-IoT
 Java Script
 In the code below, I invoked the Web Speech Recognition API and initialized an instance stored in recognition variable. After this, I made references to #textbox and #instructions components I characterized in the HTML utilizing JQuery to control them from the code. content variable keeps track of text the application has converted and displayed in the textarea from the HTML file. recognition.lang='ar'; for arabic language.
 
